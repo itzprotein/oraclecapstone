@@ -3,14 +3,32 @@ body {
     display:block;
     background-size: cover;
 }
+
 p {
 font-size: x-large;
 color:black;
-line-height: 4%;
-justify-self: center;
+line-height: 2cm;
 text-align: center;
 }
+
 form{
-    text-align: center;
+    text-align: center;  
+}
+h1{
+    padding-bottom: 50px;
     
+}
+h2{
+    font-size: x-large;
+    color: black;
+}
+
+h3{
+    font-size: x-large;
+    color: black; 
+}
+
+h4{
+    font-size: x-large;
+    color: black; 
 }
